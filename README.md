@@ -193,8 +193,6 @@ Bu proje [MIT](LICENSE) lisansı altında lisanslanmıştır.
 - 💼 LinkedIn: [ahmetunaluzun](https://www.linkedin.com/in/ahmetunaluzun/)
 - 📸 Instagram: [@ahmetunaluzun](https://www.instagram.com/ahmetunaluzun/)
 
-Restaurant Systems Solution Specialist @ Protel
-
 ---
 
 ## 💝 Teşekkürler
