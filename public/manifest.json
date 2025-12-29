@@ -1,0 +1,29 @@
+
+{
+  "short_name": "Beni Öv",
+  "name": "Beni Öv - Kişisel Motivasyon Uygulaması",
+  "description": "Adınıza, yaşınıza ve cinsiyetinize göre kişiselleştirilmiş, benzersiz ve motive edici övgüler üreten bir uygulama. Beğendiğiniz övgüleri favorilerinize ekleyin ve arkadaşlarınızla paylaşın.",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#8B5CF6",
+  "background_color": "#111827"
+}
