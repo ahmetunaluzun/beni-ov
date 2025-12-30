@@ -203,6 +203,9 @@ Bu proje [MIT](LICENSE) lisansı altında lisanslanmıştır.
 - **Tüm katkıda bulunanlar** - Destek ve geri bildirimler
 
 ---
+Virus Total Testine aşağıdan ulaşabilirsiniz.
+
+https://www.virustotal.com/gui/url/50c1da218f2423a8214a5e0ebc92696f50157d4777f8eda1eea64c879cc32caa?nocache=1
 
 <div align="center">
 
