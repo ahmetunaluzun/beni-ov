@@ -30,20 +30,14 @@ Her gün kendini daha iyi hissetmen için AI destekli kişiselleştirilmiş moti
 - **Akıllı Prompt Sistemi**: Özel günlere özel mesajlar
 
 ### 🎨 Görsel & UX
-- **6 Renkli Tema**: Mor Gece, Okyanus Mavisi, Gün Batımı, Orman Yeşili, Pembe Rüya, Karanlık Mod
-- **Konfeti Animasyonu**: Övgü geldiğinde görsel şölen
 - **Alt Navigation Bar**: Instagram tarzı kolay erişim
-- **PWA Desteği**: Mobil cihazlara yüklenebilir
+
 
 ### 💾 Veri Yönetimi
 - **Favorilere Ekleme**: Sevdiğin övgüleri kaydet
-- **Yedekleme & Geri Yükleme**: Verilerini güvende tut
-- **İstatistikler**: Övgü geçmişini takip et
-- **Başarım Sistemi**: Rozetler kazan
 
 ### 🔗 Paylaşım
 - **Sosyal Medya**: WhatsApp, Twitter, Facebook, Instagram
-- **QR Kod**: Hızlı paylaşım
 - **Link Paylaşımı**: Uygulama linki otomatik eklenir
 
 ---
